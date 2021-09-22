@@ -1,0 +1,7 @@
+com\barclays\rest\works\contract\IEmployeeService.class
+com\barclays\rest\works\RestWorksApplication.class
+com\barclays\rest\works\config\MongoConfig.class
+com\barclays\rest\works\repo\EmployeeRepository.class
+com\barclays\rest\works\service\EmployeeService.class
+com\barclays\rest\works\controller\EmployeeController.class
+com\barclays\rest\works\entity\Employee.class
